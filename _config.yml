@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profileee.png"
+  avatar           : "images/profileee.png"
   name             : "Carter Smith"
   pronouns         : # example: "she/her"  
   bio              : "Cognition and vision researcher at University of Waterloo"
