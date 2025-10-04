@@ -1,7 +1,6 @@
 ---
 title: "About"
 author_profile: true
-permalink: /about/
 ---
 
 Hello! I'm Carter.
