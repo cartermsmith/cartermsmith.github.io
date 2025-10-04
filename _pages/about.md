@@ -2,7 +2,6 @@
 title: "About"
 author_profile: true
 permalink: /about/
-redirect_from: 
 ---
 
 Hello! I'm Carter.
