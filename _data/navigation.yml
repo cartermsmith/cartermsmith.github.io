@@ -9,13 +9,13 @@
 
 main:
   - title: "Research"
-    url: /publications/
+    url: /research/
 
-  #- title: "Projects"
-    #url: /Projects/    
+  - title: "Projects"
+    #url: /projects/    
         
   - title: "Witing"
-    url: /Writing/
+    url: /writing/
     
   - title: "CV"
     url: /cv/
