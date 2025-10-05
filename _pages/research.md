@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: archive
 title: "Research"
 permalink: /research/
+author_profile: true
 ---
 
 ## Anxiety and depression among Canadian undergraduates with decreased sound tolerance
