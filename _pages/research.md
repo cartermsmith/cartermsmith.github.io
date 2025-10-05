@@ -9,7 +9,7 @@ author_profile: true
 
 Status: Under review
 
-Using a large primary dataset of Canadian undergraduates (N = 2,095), we show that those with clinically significant levels of the auditory perception disorder *misophonia* score higher on measures of depression (δ = .61) and anxiety (δ = .63) than those with non-clinical misophonia. This effect holds for *hyperacusis*, another auditory perception disorder: as hyperacusis severity increases, so does anxiety (ρ = .52) and depression (ρ = .41).
+Using a large primary dataset of Canadian undergraduates (N = 2,095), we show that those with clinically significant levels of the auditory perception disorder *misophonia* score higher on measures of depression (*δ* = .61) and anxiety (*δ* = .63) than those with non-clinical misophonia. This effect holds for *hyperacusis*, another auditory perception disorder: as hyperacusis severity increases, so does anxiety (*ρ* = .52) and depression (*ρ* = .41).
 
 Recommended citation: Smith, C. M., Van Esch, N., & Scheerer, N. E. (Under review). Anxiety and depression among Canadian undergraduates with decreased sound tolerance. 
 
