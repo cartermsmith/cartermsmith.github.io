@@ -1,15 +1,13 @@
 ---
-title: "About"
+title: ""
 author_profile: true
 ---
 
 # Hi, I'm Carter — <span id="typed"></span>
 
-Hello! I'm Carter.
+---
 
-I am a human cognition researcher and a master's student in cognitive psychology at the University of Waterloo.
-
-Recently, I joined Dr. Clara Colombatto's Vision and Cognition Laboratory at UW, where I study the role of the human visual system in social perception.
+Recently, I began an MA in cognitive psychology at the University of Waterloo. I study the role of the human visual system in social perception in Dr. Clara Colombatto's Vision and Cognition Laboratory.
 
 Previously, I earned a BA in Psychology with a Research Specialization and High Distinction from Wilfrid Laurier University. 
 
@@ -22,7 +20,7 @@ I am always happy to chat. Please feel free to contact me at carter.smith@uwater
 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
 <script>
   var typed = new Typed('#typed', {
-    strings: ["I study human attention.", "I explore visual perception.", "I research social cognition."],
+    strings: ["I study human cognition", "I explore visual perception.", "I research social cognition.", "I extract insights from large datasets", "I love baseball, cycling, & philosophy"],
     typeSpeed: 50,
     backSpeed: 25,
     backDelay: 1500,
