@@ -3,6 +3,8 @@ title: "About"
 author_profile: true
 ---
 
+# Hi, I'm Carter — <span id="typed"></span>
+
 Hello! I'm Carter.
 
 I am a human cognition researcher and a master's student in cognitive psychology at the University of Waterloo.
@@ -16,3 +18,14 @@ At WLU, I studied in Dr. Nichole Scheerer's Cognisant Laboratory, where I comple
 This website includes my research projects, some data analysis projects I am proud of, and (perhaps) some of my non-scientific writing.
 
 I am always happy to chat. Please feel free to contact me at carter.smith@uwaterloo.ca.
+
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+<script>
+  var typed = new Typed('#typed', {
+    strings: ["I study human attention.", "I explore visual perception.", "I research social cognition."],
+    typeSpeed: 50,
+    backSpeed: 25,
+    backDelay: 1500,
+    loop: true
+  });
+</script>
