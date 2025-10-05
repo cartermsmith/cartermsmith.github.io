@@ -15,4 +15,4 @@ At WLU, I studied in Dr. Nichole Scheerer's Cognisant Laboratory, where I comple
 
 This website includes my research projects, some data analysis projects I am proud of, and (perhaps) some of my non-scientific writing.
 
-I am always happy to chat. Please feel free to contact me at carter.smith@uwaterloo.ca
+I am always happy to chat. Please feel free to contact me at carter.smith@uwaterloo.ca.
