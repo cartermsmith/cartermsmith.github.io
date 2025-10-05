@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-# Anxiety and depression among Canadian undergraduates with decreased sound tolerance
+### Anxiety and depression among Canadian undergraduates with decreased sound tolerance
 
 Status: Under review
 
@@ -13,11 +13,11 @@ Using a large primary dataset of Canadian undergraduates (N = 2,095), we show th
 
 Recommended citation: Smith, C. M., Van Esch, N., & Scheerer, N. E. (Under review). Anxiety and depression among Canadian undergraduates with decreased sound tolerance. 
 
-[Preprint](/assets/pdfs/Smith_etal_DST_Depression_Anxiety.pdf) | [View Poster](/assets/pdfs/_Smith_Carter_SONA2025.pdf)
+[Preprint](/assets/pdfs/Smith_etal_DST_Depression_Anxiety.pdf) [Poster](/assets/pdfs/_Smith_Carter_SONA2025.pdf)
 
 ---
 
-# The effect of visual angle on slot machine gambling in virtual reality
+### The effect of visual angle on slot machine gambling in virtual reality
 
 Status: In preparation
 
@@ -27,5 +27,5 @@ Recommended citation: Smith, C. M., & Scheerer, N. E. (In preparation). The effe
 
 Note: The PDF below represents an initial conceptualization of my undergraduate thesis. A revised, methodologically focused paper is currently under development using these data.
 
-[Read PDF](/assets/pdfs/Smith_Carter_UG_Thesis.pdf) | [View Poster](/assets/pdfs/_Smith_Carter_PS499/.pdf)
+[PDF](/assets/pdfs/Smith_Carter_UG_Thesis.pdf) [Poster](/assets/pdfs/_Smith_Carter_PS499.pdf)
 
