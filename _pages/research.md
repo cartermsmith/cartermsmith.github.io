@@ -29,3 +29,5 @@ Note: The PDF below represents an initial conceptualization of my undergraduate 
 
 [PDF](/assets/pdfs/Smith_Scheerer_UG_Thesis.pdf) / [Poster](/assets/pdfs/Smith_Carter_PS499.pdf)
 
+---
+
