@@ -3,8 +3,6 @@ title: "About"
 author_profile: true
 ---
 
-<link rel="stylesheet" href="/assets/css/custom.css">
-
 Hello! I'm Carter.
 
 I am a human cognition researcher and a master's student in cognitive psychology at the University of Waterloo.
