@@ -1,3 +1,4 @@
-.profile-card {
-  display: none;
+/* Hide the white author box in AcademicPages sidebar */
+.author__urls-wrapper {
+  display: none !important;
 }
