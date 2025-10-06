@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Carter M. Smith"
-plugins: [jekyll-feed]
+plugins                  : [jekyll-feed]
 title_separator          : "-"
 name                     : &name "Carter M. Smith"
 description              : &description "Carter Smith's Personal Website"   # Update this with a general description of your site, this is the default if not overridden by a page
