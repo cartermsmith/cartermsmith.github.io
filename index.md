@@ -20,10 +20,21 @@ I am always happy to chat. Please feel free to contact me at carter.smith@uwater
 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
 <script>
   var typed = new Typed('#typed', {
-    strings: ["I study human cognition.", "I explore visual perception.", "I research social cognition.", "I extract insights from large datasets.", "I love baseball, cycling, and philosophy."],
-    typeSpeed: 50,
-    backSpeed: 25,
-    backDelay: 1500,
-    loop: true
+    strings: [
+      "I study human cognition.",
+      "I explore visual perception.",
+      "I research social cognition.",
+      "I extract insights from large datasets.",
+      "I love baseball, cycling, and philosophy."
+    ],
+    typeSpeed: 40,       // slower typing
+    backSpeed: 25,       // slower deletion
+    backDelay: 1800,     // longer pause before erasing
+    fadeOut: true,       // soft fade instead of harsh delete
+    fadeOutClass: 'typed-fade-out',
+    fadeOutDelay: 400,
+    loop: true,
+    showCursor: true,
+    cursorChar: '|',
   });
 </script>
