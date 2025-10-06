@@ -1,13 +1,13 @@
 ---
-title: ""
+title: "About"
 author_profile: true
 ---
 
-# Hi, I'm Carter — <span id="typed"></span>
+Hello! I'm Carter.
 
----
+I am a human cognition researcher and a master's student in cognitive psychology at the University of Waterloo.
 
-Recently, I began an MA in cognitive psychology at the University of Waterloo. I study the role of the human visual system in social perception in Dr. Clara Colombatto's Vision and Cognition Laboratory.
+Recently, I joined Dr. Clara Colombatto's Vision and Cognition Laboratory at UW, where I study the role of the human visual system in social perception.
 
 Previously, I earned a BA in Psychology with a Research Specialization and High Distinction from Wilfrid Laurier University. 
 
@@ -16,25 +16,3 @@ At WLU, I studied in Dr. Nichole Scheerer's Cognisant Laboratory, where I comple
 This website includes my research projects, some data analysis projects I am proud of, and (perhaps) some of my non-scientific writing.
 
 I am always happy to chat. Please feel free to contact me at carter.smith@uwaterloo.ca.
-
-<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
-<script>
-  var typed = new Typed('#typed', {
-    strings: [
-      "I study human cognition.",
-      "I explore visual perception.",
-      "I research social cognition.",
-      "I extract insights from large datasets.",
-      "I love baseball, cycling, and philosophy."
-    ],
-    typeSpeed: 40,       // slower typing
-    backSpeed: 25,       // slower deletion
-    backDelay: 1800,     // longer pause before erasing
-    fadeOut: true,       // soft fade instead of harsh delete
-    fadeOutClass: 'typed-fade-out',
-    fadeOutDelay: 400,
-    loop: true,
-    showCursor: true,
-    cursorChar: '|',
-  });
-</script>
