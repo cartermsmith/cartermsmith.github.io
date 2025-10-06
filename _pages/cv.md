@@ -3,4 +3,4 @@ title: "CV"
 permalink: /cv/
 ---
 
-In progress...
+<iframe src="currentCV.pdf" width="100%" height="1200px"></iframe>
