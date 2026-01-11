@@ -1,0 +1,44 @@
+project:
+  type: website
+
+website:
+  title: ""
+  open-graph: true
+  page-footer: 
+    center:
+      - text: "© 2026 Carter M. Smith"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        href: home.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Analysis Projects"
+        href: analysis.qmd
+      - text: Contact
+        href: contact.qmd
+    tools:
+      - icon: "github"
+        menu:
+        - text: Source Code
+          href: # code here
+        - text: Report a Bug
+          href: # issues here
+      - icon: "google"
+        menu:
+        - text: Google Scholar
+          href: https://scholar.google.ca/citations?user=rw5o3IIAAAAJ&hl=en
+    collapse: true
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+

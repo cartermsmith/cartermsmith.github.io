@@ -1,0 +1,12 @@
+---
+title: "Carter M. Smith"
+format:
+    html:
+        toc: true
+        html-math-method: katex
+        css: styles.css
+---
+
+Hello! I'm Carter.
+
+I am an MA candidate at the University of Waterloo, where I study in Clara Colombatto's Vision and Cognition Laboratory.
