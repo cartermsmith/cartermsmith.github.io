@@ -24,8 +24,9 @@ website:
         href: /projects/
       - text: "Blog"
         href: /blog/
-      - text: Contact
-        href: contact.qmd
+      - text: "CV"
+        href: /cv/cv_jan2026.pdf
+        target: _blank
     tools:
       - icon: "github"
         menu:
