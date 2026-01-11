@@ -18,7 +18,7 @@ about:
           href: https://www.linkedin.com/in/carter-m-smith/
         - icon: "google"
           text: Google Scholar
-          href: https://scholar.google.ca/
+          href: https://scholar.google.ca/citations?user=rw5o3IIAAAAJ&hl=en
         - icon: "github"
           text: Github
           href: https://github.com/cartermsmith
@@ -69,11 +69,17 @@ page-layout: full
 
 ***Hello, I'm Carter.***
 
-I am an MA candidate at the University of Waterloo, where I study in Clara Colombatto's [Vision and Cognition Laboratory.](https://colombattolab.com/)
+I am an MA candidate in Cognitive Psychology at the University of Waterloo, where I study in Dr. Clara Colombatto's [Vision and Cognition Laboratory.](https://colombattolab.com/)
 
-My research asks: when humans interact with other people, are there low-level cues (e.g., velocity of anothers' movements) that (1) allow for inferences about others (e.g., others' intentionality) and (2) influence the cognition of the observing person (e.g., their attention)?
+My current research examines the low-level cues that humans observe in social interactions, which may let them infer things about others (e.g., intentions). Further, I explore how these cues may influence an observers' cognition (e.g., their attention).
 
-[[**Check out my research >**]{.btn .btn-primary .btn-md}](/research/)
+In the past, I have studied the auditory conditions *misophonia* and *hyperacusis* and their association with depression and anxiety. I have also worked with virtual reality to explore how modifying stimulus properties (e.g., slot machine size) alters gambling behaviours.
+
+I am passionate about philosophy, cycling, music, and the Toronto Blue Jays.
+
+Please feel free to contact me at: carter.smith@uwaterloo.ca
+
+[[**Check out my research**]{.btn .btn-primary .btn-md}](/research/)
 
 ## Latest Blog Posts
 

@@ -32,7 +32,7 @@ website:
         - text: Source Code
           href: https://github.com/cartermsmith/website.git
         - text: Report a Bug
-          href: https://github.com/cartermsmith/catermsmith.github.io/issues
+          href: .github/ISSUE_TEMPLATE/bug_report.md
     collapse: true
 
 format:
