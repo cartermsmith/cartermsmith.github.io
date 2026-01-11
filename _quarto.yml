@@ -2,6 +2,9 @@ project:
   type: website
   output-dir: docs
 
+execute: 
+  freeze: true
+
 website:
   title: ""
   description: "Carter M. Smith's Personal Website"
@@ -29,7 +32,7 @@ website:
         - text: Source Code
           href: https://github.com/cartermsmith/website.git
         - text: Report a Bug
-          href: # issues here
+          href: https://github.com/cartermsmith/catermsmith.github.io/issues
     collapse: true
 
 format:

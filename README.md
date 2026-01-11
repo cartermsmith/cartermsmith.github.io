@@ -1,4 +1,7 @@
-# website
+# Carter M. Smith's Personal Website
+
+# catermsmith.github.io
+
 A repository for my updated website using Quarto.
 
 Created with:
