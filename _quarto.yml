@@ -1,42 +1,40 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: ""
+  description: "Carter M. Smith's Personal Website"
   open-graph: true
   page-footer: 
-    center:
-      - text: "© 2026 Carter M. Smith"
+    center: 
+      © 2026 Carter M. Smith | Made with [Quarto](https://quarto.org)
   navbar:
     background: primary
     search: true
     left:
-      - text: "Home"
-        href: home.qmd
-      - text: "Publications"
-        href: publications.qmd
-      - text: "Analysis Projects"
-        href: analysis.qmd
+      - text: "About"
+        href: index.qmd
+      - text: "Research"
+        href: /research/
+      - text: "Projects"
+        href: /projects/
+      - text: "Blog"
+        href: /blog/
       - text: Contact
         href: contact.qmd
     tools:
       - icon: "github"
         menu:
         - text: Source Code
-          href: # code here
+          href: https://github.com/cartermsmith/website.git
         - text: Report a Bug
           href: # issues here
-      - icon: "google"
-        menu:
-        - text: Google Scholar
-          href: https://scholar.google.ca/citations?user=rw5o3IIAAAAJ&hl=en
     collapse: true
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: yeti
     css: styles.css
     toc: true
 

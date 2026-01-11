@@ -1,0 +1,25 @@
+---
+title: Test Post 2
+subtitle: Test 2
+author: Carter M. Smith
+date: 2026-01-11
+categories:
+    - data
+    - research
+    - r
+slug: test 2
+page-layout: article
+---
+
+Welcome to the test post.
+
+This one includes R chunks.
+
+Library load:
+
+```{r}
+library(ggplot2)
+library(patchwork)
+library(dplyr)
+```
+

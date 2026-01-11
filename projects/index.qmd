@@ -1,0 +1,18 @@
+---
+title: Projects
+author: ""
+listing:
+    contents:
+    - "*.qmd"
+    type: grid
+    fields: [title, categories, date, image]
+    sort: "date desc"
+    image-height: 200px
+format:
+ html:
+  page-layout: full
+---
+
+Below are some varied projects. 
+
+You can find slides to some talks I've given, analysis projects I have completed, and other miscellaneous things.

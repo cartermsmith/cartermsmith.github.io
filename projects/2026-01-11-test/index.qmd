@@ -1,0 +1,10 @@
+---
+title: Test Project
+author: Carter M. Smith
+date: 2026-01-11
+categories:
+    - project
+page-layout: article
+---
+
+Test

@@ -1,0 +1,13 @@
+---
+title: Test Post
+subtitle: Test
+author: Carter M. Smith
+date: 2026-01-11
+categories:
+    - data
+    - research
+slug: test
+page-layout: article
+---
+
+Welcome to the test post.

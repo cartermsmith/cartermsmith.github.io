@@ -1,0 +1,91 @@
+---
+title: "About"
+format:
+    html:
+        toc: true
+        html-math-method: katex
+        css: styles.css
+about:
+    template: solana
+    image: assets/images/profile.webp
+    image-shape: rectangle
+    links:
+        - icon: "zoom-in"
+          text: ResearchGate
+          href: https://www.researchgate.net/profile/Carter-Smith-11?ev=hdr_xprf
+        - icon: linkedin
+          text: LinkedIn
+          href: https://www.linkedin.com/in/carter-m-smith/
+        - icon: "google"
+          text: Google Scholar
+          href: https://scholar.google.ca/
+        - icon: "github"
+          text: Github
+          href: https://github.com/cartermsmith
+    id: hero-heading
+listing:
+- id: blog-preview
+  contents:
+    - blog/*/*.qmd
+  sort: false
+  type: grid
+  grid-columns: 3
+  max-items: 3
+  image-height: 150px
+  fields: [image,title]
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  feed: false
+- id: research-preview
+  contents:
+    - research/*/*.qmd
+  sort: false
+  type: grid
+  grid-columns: 3
+  max-items: 3
+  image-height: 150px
+  fields: [image,title]
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  feed: false
+- id: projects-preview
+  contents:
+    - projects/*/*.qmd
+  sort: false
+  type: grid
+  grid-columns: 3
+  max-items: 3
+  image-height: 150px
+  fields: [image,title]
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  feed: false
+page-layout: full
+---
+:::{ #hero-heading }
+
+***Hello, I'm Carter.***
+
+I am an MA candidate at the University of Waterloo, where I study in Clara Colombatto's [Vision and Cognition Laboratory.](https://colombattolab.com/)
+
+My research asks: when humans interact with other people, are there low-level cues (e.g., velocity of anothers' movements) that (1) allow for inferences about others (e.g., others' intentionality) and (2) influence the cognition of the observing person (e.g., their attention)?
+
+[[**Check out my research >**]{.btn .btn-primary .btn-md}](/research/)
+
+## Latest Blog Posts
+
+:::{ #blog-preview }
+:::
+
+## Latest Research
+
+:::{ #research-preview }
+:::
+
+## Latest Projects
+
+:::{ #projects-preview }
+:::

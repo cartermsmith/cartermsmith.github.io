@@ -7,4 +7,9 @@ format:
         css: styles.css
 ---
 
-Welcome.
+Feel free to email me at:
+
+carter.smith@uwaterloo.ca
+
+
+
