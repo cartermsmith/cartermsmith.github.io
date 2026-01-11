@@ -1,52 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About",
-    "section": "",
-    "text": "ResearchGate\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     Github\n  \n\n      \nHello, I’m Carter.\nI am an MA candidate at the University of Waterloo, where I study in Clara Colombatto’s Vision and Cognition Laboratory.\nMy research asks: when humans interact with other people, are there low-level cues (e.g., velocity of anothers’ movements) that (1) allow for inferences about others (e.g., others’ intentionality) and (2) influence the cognition of the observing person (e.g., their attention)?\nCheck out my research &gt;\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "analysis.html",
-    "href": "analysis.html",
-    "title": "Data Analysis Projects",
-    "section": "",
-    "text": "Welcome."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Feel free to email me at:\ncarter.smith@uwaterloo.ca"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Research",
-    "section": "",
-    "text": "Take a look at my research projects below, or find them on ResearchGate."
-  },
-  {
-    "objectID": "index.html#hello-im-carter.",
-    "href": "index.html#hello-im-carter.",
-    "title": "About",
-    "section": "",
-    "text": "I am an MA candidate at the University of Waterloo, where I study in Clara Colombatto’s Vision and Cognition Laboratory.\nMy research asks: when humans interact with other people, are there low-level cues (e.g., velocity of anothers’ movements) that (1) allow for inferences about others (e.g., others’ intentionality) and (2) influence the cognition of the observing person (e.g., their attention)?\nThis website includes my research publications, data analysis projects I am proud of, and a blog where I post some scientific and non-scientific writing."
-  },
-  {
     "objectID": "blog/2026-01-11-test/index.html",
     "href": "blog/2026-01-11-test/index.html",
     "title": "Test Post",
     "section": "",
     "text": "Welcome to the test post."
-  },
-  {
-    "objectID": "blog/2026-01-11-test-2/index.html",
-    "href": "blog/2026-01-11-test-2/index.html",
-    "title": "Test Post 2",
-    "section": "",
-    "text": "Welcome to the test post.\nThis one includes R chunks.\nLibrary load:\n\nlibrary(ggplot2)\nlibrary(patchwork)\nlibrary(dplyr)\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union"
   },
   {
     "objectID": "blog/index.html",
@@ -56,39 +14,18 @@
     "text": "Check out my blog posts below.\n\n\n\n\n\n\n\n\n\n\n\n\nTest Post 2\n\n\n\ndata\n\nresearch\n\nr\n\n\n\n\nJan 11, 2026\n\n\n\n\n\n\n\n\n\n\n\nTest Post\n\n\n\ndata\n\nresearch\n\n\n\n\nJan 11, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "index.html#latest-blog-posts",
-    "href": "index.html#latest-blog-posts",
-    "title": "About",
+    "objectID": "projects/2026-01-11-test/index.html",
+    "href": "projects/2026-01-11-test/index.html",
+    "title": "Test Project",
     "section": "",
-    "text": "No matching items"
+    "text": "Test"
   },
   {
-    "objectID": "publications/smith-et-al-2026-DST/index.html",
-    "href": "publications/smith-et-al-2026-DST/index.html",
-    "title": "Anxiety and depression among Canadian undergraduates with decreased sound tolerance",
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
     "section": "",
-    "text": "Recently, my colleagues from Wilfrid Laurier University, Natalia Van Esch and Nichole E. Scheerer and I published an article in Hearing Research.\nThis paper examined…"
-  },
-  {
-    "objectID": "publications/index.html",
-    "href": "publications/index.html",
-    "title": "Research",
-    "section": "",
-    "text": "Take a look at my research projects below, or find them on ResearchGate.\n\n\n\n\n\n\n\n\n\n\n\n\nAnxiety and depression among Canadian undergraduates with decreased sound tolerance\n\n\n\npublication\n\n\n\n\nJan 11, 2026\n\n\n\n\n\n\n\n\n\n\n\nThe effect of visual angle on slot machine gambling in virtual reality\n\n\n\nposter\n\n\n\n\nJan 11, 2026\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications/smith-scheerer-2025-thesis/index.html",
-    "href": "publications/smith-scheerer-2025-thesis/index.html",
-    "title": "The effect of visual angle on slot machine gambling in virtual reality",
-    "section": "",
-    "text": "This poster…"
-  },
-  {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
-    "title": "Research",
-    "section": "",
-    "text": "Take a look at my research projects below, or find them on ResearchGate.\n\n\n\n\n\n\n\n\n\n\n\n\nAnxiety and depression among Canadian undergraduates with decreased sound tolerance\n\n\n\npublication\n\n\n\n\nJan 11, 2026\n\n\n\n\n\n\n\n\n\n\n\nThe effect of visual angle on slot machine gambling in virtual reality\n\n\n\nposter\n\n\n\n\nJan 11, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "Below are some varied projects.\nYou can find slides to some talks I’ve given, analysis projects I have completed, and other miscellaneous things.\n\n\n\n\n\n\n\n\n\n\n\n\nTest Project 2\n\n\n\nproject\n\n\n\n\nJan 11, 2026\n\n\n\n\n\n\n\n\n\n\n\nTest Project\n\n\n\nproject\n\n\n\n\nJan 11, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/smith-et-al-2026-DST/index.html",
@@ -105,18 +42,18 @@
     "text": "This poster…"
   },
   {
-    "objectID": "index.html#latest-research",
-    "href": "index.html#latest-research",
-    "title": "About",
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
     "section": "",
-    "text": "No matching items"
+    "text": "Take a look at my research projects below, or find them on ResearchGate.\n\n\n\n\n\n\n\n\n\n\n\n\nAnxiety and depression among Canadian undergraduates with decreased sound tolerance\n\n\n\npublication\n\n\n\n\nJan 11, 2026\n\n\n\n\n\n\n\n\n\n\n\nThe effect of visual angle on slot machine gambling in virtual reality\n\n\n\nposter\n\n\n\n\nJan 11, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "Below are some varied projects.\nYou can find slides to some talks I’ve given, analysis projects I have completed, and other miscellaneous things.\n\n\n\n\n\n\n\n\n\n\n\n\nTest Project 2\n\n\n\nproject\n\n\n\n\nJan 11, 2026\n\n\n\n\n\n\n\n\n\n\n\nTest Project\n\n\n\nproject\n\n\n\n\nJan 11, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "Feel free to email me at:\ncarter.smith@uwaterloo.ca"
   },
   {
     "objectID": "projects/2026-01-11-test-2/index.html",
@@ -126,11 +63,25 @@
     "text": "Test 2"
   },
   {
-    "objectID": "projects/2026-01-11-test/index.html",
-    "href": "projects/2026-01-11-test/index.html",
-    "title": "Test Project",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
     "section": "",
-    "text": "Test"
+    "text": "ResearchGate\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     Github\n  \n\n      \nHello, I’m Carter.\nI am an MA candidate at the University of Waterloo, where I study in Clara Colombatto’s Vision and Cognition Laboratory.\nMy research asks: when humans interact with other people, are there low-level cues (e.g., velocity of anothers’ movements) that (1) allow for inferences about others (e.g., others’ intentionality) and (2) influence the cognition of the observing person (e.g., their attention)?\nCheck out my research &gt;\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#latest-blog-posts",
+    "href": "index.html#latest-blog-posts",
+    "title": "About",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "index.html#latest-research",
+    "href": "index.html#latest-research",
+    "title": "About",
+    "section": "",
+    "text": "No matching items"
   },
   {
     "objectID": "index.html#latest-projects",
@@ -138,5 +89,12 @@
     "title": "About",
     "section": "",
     "text": "No matching items"
+  },
+  {
+    "objectID": "blog/2026-01-11-test-2/index.html",
+    "href": "blog/2026-01-11-test-2/index.html",
+    "title": "Test Post 2",
+    "section": "",
+    "text": "Welcome to the test post.\nThis one includes R chunks.\nLibrary load:\n\nlibrary(ggplot2)\nlibrary(patchwork)\nlibrary(dplyr)\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union"
   }
 ]

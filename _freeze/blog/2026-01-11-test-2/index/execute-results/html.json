@@ -1,0 +1,15 @@
+{
+  "hash": "3462b9d2dac573b1319fe7e073bdc170",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Test Post 2\nsubtitle: Test 2\nauthor: Carter M. Smith\ndate: 2026-01-11\ncategories:\n    - data\n    - research\n    - r\nslug: test 2\npage-layout: article\n---\n\nWelcome to the test post.\n\nThis one includes R chunks.\n\nLibrary load:\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(ggplot2)\nlibrary(patchwork)\nlibrary(dplyr)\n```\n\n::: {.cell-output .cell-output-stderr}\n\n```\n\nAttaching package: 'dplyr'\n```\n\n\n:::\n\n::: {.cell-output .cell-output-stderr}\n\n```\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n```\n\n\n:::\n\n::: {.cell-output .cell-output-stderr}\n\n```\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n```\n\n\n:::\n:::\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

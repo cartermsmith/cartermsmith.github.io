@@ -7,21 +7,10 @@
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/projects/index.html",
     "items": [
-      "/blog/2026-01-11-test-2/index.html",
-      "/blog/2026-01-11-test/index.html",
-      "/research/smith-et-al-2026-DST/index.html",
-      "/research/smith-scheerer-2025-thesis/index.html",
       "/projects/2026-01-11-test-2/index.html",
       "/projects/2026-01-11-test/index.html"
-    ]
-  },
-  {
-    "listing": "/publications/index.html",
-    "items": [
-      "/publications/smith-et-al-2026-DST/index.html",
-      "/publications/smith-scheerer-2025-thesis/index.html"
     ]
   },
   {
@@ -32,8 +21,12 @@
     ]
   },
   {
-    "listing": "/projects/index.html",
+    "listing": "/index.html",
     "items": [
+      "/blog/2026-01-11-test-2/index.html",
+      "/blog/2026-01-11-test/index.html",
+      "/research/smith-et-al-2026-DST/index.html",
+      "/research/smith-scheerer-2025-thesis/index.html",
       "/projects/2026-01-11-test-2/index.html",
       "/projects/2026-01-11-test/index.html"
     ]
