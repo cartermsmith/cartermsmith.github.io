@@ -5,9 +5,10 @@ listing:
     contents:
     - "*.qmd"
     type: grid
+    image-height: 100px
+    date-format: iso
     fields: [title, categories, date, image]
     sort: "date desc"
-    image-height: 200px
 format:
  html:
   page-layout: full

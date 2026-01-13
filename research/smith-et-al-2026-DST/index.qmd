@@ -1,12 +1,45 @@
 ---
 title: Anxiety and depression among Canadian undergraduates with decreased sound tolerance
+subtitle: New research in *Hearing Research*
 author: Carter M. Smith
 date: 2026-01-11
+date-modified: 2025-01-13
+date-format: iso
 categories:
     - publication
 page-layout: article
+image: article.png
 ---
 
-Recently, my colleagues from Wilfrid Laurier University, Natalia Van Esch and Nichole E. Scheerer and I published an article in *Hearing Research*.
+## *New research in Hearing Research* 
 
-This paper examined...
+### [*Read the open-access paper here!*](https://pdf.sciencedirectassets.com/271141/1-s2.0-S0378595525X00150/1-s2.0-S0378595525003399/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDMaCXVzLWVhc3QtMSJIMEYCIQCagxOh5UTOYeY57QHhKax%2BHy1Y6K5uuV0IHQDUUpR7ogIhAI6oC0%2F2gEYKN89VDeYqzhqRYf140st7jBU14foLYFmCKrsFCPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBRoMMDU5MDAzNTQ2ODY1IgzD11NTtBtm%2FSNNp7oqjwXSExDcOMGYGR97MQ5EPmzzSXDtqS1o%2Ftx%2BXeKmcv4qt5KYuECNlkmaSpJiKMBG%2BHYsOh7uOjCV6TrmIRVbzFz3ZR0m42knUGxhkcEuEZda2NdnksPSQ53FSchXPh873SIwWIcA0BMYCRqV4I0fR%2F5XmKrE6XXkIyati6TycQC%2FdkecrbIGF6KqstPuEIg%2BAdVcBNl0Gz37GJGyrU%2B47jDKK%2F4Ry0pspeuqWVxH4UpfexEOiCI70CblKxAxKqvQLM2EjCcUT9iS3ltQZP5LOTqnjY7ZDib6xzDojT2FcykRkH54aBHEbBKknpRGjvvufPzJNw1QaEvjl5L4VjQ%2F%2FRyBGit2e63EsItw6aYz2Z02QRRNqd%2BT0RNwdUXRiwnil7vWzP0uNh01fqBIymuOpZMxym7Owy9j%2B68TEOTLdbPShnda8sW%2B3PYnnAa96XQrbYNdcK%2FP5tJWqOFesyXz8%2FQ3k8uBnp8RiNyjBu8YHFI8pn%2FHJq73Xf6069b5tpCMj6r9zONcSJXRtV%2B5eR%2B8r7QGmy0PXXozIub%2BE%2Fm2XnK3Kn%2ByFGLC1TXuTzeFFXOzV6a1uUwpMXLn%2FW%2BPMNtkgFG5WlF9YvRFdbthd6SfThXNmCV5YTyE14dP%2B1zZce25%2BliwDHXIiVzcTOIt9A9%2FVUy6cV9G3AjFZ8xyodgpch6X6X1PqILOlP0oyVA33Hh4onOoy6KTxiy6i1KT%2FZcaCIfX7LSbzscHdbe09iIfr77byg%2F7LRuR7NudNIRpCyJUlHDxTbpnSl%2FNfp0NftMjEqdZW2LBQcG64reLNMorTp7Yx3dESW55%2BXUHUC8Ezh2yGsDzX9ZH%2Ftu56AUIbkcvTWlTxtnIfhCM%2FudDm7fE0wKzMLnklssGOrABE0E366X%2F12QR9CJwiPXNDKeDrFiMdPY6%2Fy9aIhM9rNCDJl94rrsvalFHRbigLenFGZTPq8YkX6WjxeJSm6ffxrBfyPENrsasFcUARE%2Fr4t0jyV5Oxvel%2BrNdDeM9MgfnGTf53jFu%2FCtfookonYfiaZFOFT0Ei%2F%2B3puCUrC%2BPbu3nNlRf0tEbRg8oZzeoUJ4tI3%2BkHDAkmT3lO3pnGGngaxhpbOpXzNjkxkt987oYXPg%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260113T035140Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYTNND7FHV%2F20260113%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=293a697e1f6989b6d39064c48b3508579f41f19d1668a8b033b8ce094848fd59&hash=89ca8a788f34fe413b4708310ff386ba6a6a6442d262ed62453b475afe418de3&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0378595525003399&tid=spdf-56e05603-ac24-47d7-b10c-584af19a7dbb&sid=4f1cbaab61d799428e4ae2e-29824045eab9gxrqa&type=client&tsoh=d3d3LXNjaWVuY2VkaXJlY3QtY29tLnByb3h5LmxpYi51d2F0ZXJsb28uY2E%3D&rh=d3d3LXNjaWVuY2VkaXJlY3QtY29tLnByb3h5LmxpYi51d2F0ZXJsb28uY2E%3D&ua=07005a070650030001&rr=9bd1efba6f43abc7&cc=ca)
+
+### What did we do?
+
+Using a large primary dataset of Canadian undergraduates (N = 2,095), we show that those with clinically significant levels of the auditory perception disorder misophonia score higher on measures of depression (δ = .61) and anxiety (δ = .63) than those with non-clinical misophonia. This effect holds for hyperacusis, another auditory perception disorder: as hyperacusis severity increases, so does anxiety (ρ = .52) and depression (ρ = .41).
+
+### How did we do it?
+
+Undergraduates from Wilfrid Laurier University completed various questionnaires. They completed the Duke Misophonia Questionnaire (DMQ), the Duke-Vanderbilt Misophonia Questionnaire (DVMQ), the Inventory of Hyperacusis Symptoms (IHS), the Beck Depression Inventory (BDI), and the Beck Anxiety Inventory (BAI). 
+
+We then explored how their self-reported misophonia and hyperacusis levels correlated with their self-reported depression and anxiety levels. We employed non-parametric analyses of variance (ANOVA; Kruskal-Wallis rank sum test) and correlations (Spearman's ρ).
+
+To evaluate our effects, we mainly relied on effect size measures since null hypothesis significance testing will yield *p* < .05 when N is large (in our case, N = 2,095).
+
+### Why did we do it?
+
+The investigation of how DST subcategories correlate with mental health difficulties was timely since psychometrically validated measures of misophonia have recently been developed (DMQ and DVMQ), yet their relation to depression and anxiety had not been explored. 
+
+Understanding how these aligned measures mapped onto mental health struggles can help highlight intervention strategies that can perhaps be implemented by stakeholders in universities.
+
+### Who contributed?
+
+This work was conducted by myself and my colleagues in the Department of Psychology at Wilfrid Laurier University: Natalia Van Esch, a current MSc student, and Cognisant Lab director and Assistant Professor, Dr. Nichole E. Scheerer.
+
+Other folks in the Cognisant Lab also provided helpful discussion and feedback on this project, undoubtedly increasing the quality of the work.
+
+### Cite the work:
+
+Smith, C. M., Van Esch, N., & Scheerer, N. E. (2026). Anxiety and depression among Canadian
+undergraduates with decreased sound tolerance. *Hearing Research, 471*, 109522. [https://doi.org/10.1016/j.heares.2025.109522](https://doi.org/10.1016/j.heares.2025.109522)
