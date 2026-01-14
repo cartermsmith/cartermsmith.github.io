@@ -20,7 +20,7 @@ Using a large primary dataset of Canadian undergraduates (N = 2,095), we show th
 
 ### How did we do it?
 
-Undergraduates from Wilfrid Laurier University completed various questionnaires. They completed the Duke Misophonia Questionnaire (DMQ), the Duke-Vanderbilt Misophonia Questionnaire (DVMQ), the Inventory of Hyperacusis Symptoms (IHS), the Beck Depression Inventory (BDI), and the Beck Anxiety Inventory (BAI). 
+Undergraduates from Wilfrid Laurier University completed various questionnaires. They completed the Duke Misophonia Questionnaire (DMQ; Rosenthal et al., 2021), the Duke-Vanderbilt Misophonia Questionnaire (DVMQ; Williams et al., 2022), the Inventory of Hyperacusis Symptoms (IHS; Greenberg & Carlos, 2018), the Beck Depression Inventory (BDI; Beck, 1961), and the Beck Anxiety Inventory (BAI; Beck et al., 1988).
 
 We then explored how their self-reported misophonia and hyperacusis levels correlated with their self-reported depression and anxiety levels. We employed non-parametric analyses of variance (ANOVA; Kruskal-Wallis rank sum test) and correlations (Spearman's ρ).
 
@@ -34,11 +34,24 @@ Understanding how these aligned measures mapped onto mental health struggles can
 
 ### Who contributed?
 
-This work was conducted by myself and my colleagues in the Department of Psychology at Wilfrid Laurier University: Natalia Van Esch, a current MSc student, and Cognisant Lab director and Assistant Professor, Dr. Nichole E. Scheerer.
+This work was conducted by myself and my colleagues in the [Department of Psychology at Wilfrid Laurier University](https://students.wlu.ca/programs/science/psychology/index.html): [Natalia Van Esch](https://scholar.google.com/citations?user=vT8TU-cAAAAJ&hl=en&oi=sra), a current MSc student, and [Cognisant Lab](https://cognisantlab.ca/) director and Assistant Professor, [Dr. Nichole E. Scheerer.](https://www.wlu.ca/academics/faculties/faculty-of-science/faculty-profiles/nichole-scheerer/index.html)
 
 Other folks in the Cognisant Lab also provided helpful discussion and feedback on this project, undoubtedly increasing the quality of the work.
 
-### Cite the work:
+### Cite the paper:
 
 Smith, C. M., Van Esch, N., & Scheerer, N. E. (2026). Anxiety and depression among Canadian
 undergraduates with decreased sound tolerance. *Hearing Research, 471*, 109522. [https://doi.org/10.1016/j.heares.2025.109522](https://doi.org/10.1016/j.heares.2025.109522)
+
+### References
+
+Beck, A. T. (1961). An inventory for measuring depression. *Archives of General Psychiatry, 4*(6), 561. [https://doi.org/10.1001/archpsyc.1961.01710120031004](https://doi.org/10.1001/archpsyc.1961.01710120031004)
+
+Beck, A. T., Epstein, N., Brown, G., & Steer, R. A. (1988). An inventory for measuring clinical anxiety: Psychometric properties. *Journal of Consulting and Clinical Psychology, 56*(6), 893–897. [https://doi.org/10.1037/0022-006X.56.6.893](https://doi.org/10.1037/0022-006X.56.6.893)
+
+Greenberg, B., & Carlos, M. (2018). Psychometric properties and factor structure of a new scale to measure hyperacusis: Introducing the Inventory of Hyperacusis Symptoms. *Ear & Hearing, 39*(5), 1025–1034. [https://doi.org/10.1097/AUD.0000000000000583](https://doi.org/10.1097/AUD.0000000000000583)
+
+Rosenthal, M. Z., Anand, D., Cassiello-Robbins, C., Williams, Z. J., Guetta, R. E., Trumbull, J., & Kelley, L. D. (2021). Development and initial validation of the Duke Misophonia Questionnaire. *Frontiers in Psychology, 12*. [https://doi.org/10.3389/fpsyg.2021.709928](https://doi.org/10.3389/fpsyg.2021.709928)
+
+Williams, Z. J., Cascio, C. J., & Woynaroski, T. G. (2022). Psychometric validation of a brief self-report measure of misophonia symptoms and functional impairment: The duke-vanderbilt misophonia screening questionnaire. *Frontiers in Psychology, 13*, 897901. [https://doi.org/10.3389/fpsyg.2022.897901](https://doi.org/10.3389/fpsyg.2022.897901)
+

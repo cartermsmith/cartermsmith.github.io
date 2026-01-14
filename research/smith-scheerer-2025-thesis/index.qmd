@@ -1,10 +1,51 @@
 ---
 title: The effect of visual angle on slot machine gambling in virtual reality
 author: Carter M. Smith
-date: 2026-01-11
+date: 2026-01-13
+date-format: iso
 categories:
     - poster
+    - thesis
 page-layout: article
+image: ugthesis.webp
 ---
 
-This poster...
+### [*Read my undergraduate thesis here!*](/research/smith-scheerer-2025-thesis/smith-carter-2025-thesis-paper.pdf)
+
+### [*Check out my poster from SOBDR 2025 here!*](/research/smith-scheerer-2025-thesis/smith-carter-2025-sobdr-poster.pdf)
+
+### What did we do?
+
+This research project comprises my undergraduate thesis at Wilfrid Laurier University. 
+
+This work was conducted explored how modifying the low-level stimulus property *visual angle* alters gambling behaviours when using a virtual reality slot machine. 
+
+We argue that although visual angle does not appear to affect gambling in VR, the behavioural impacts of other low-level stimulus features (e.g., colour, brightness) should be explored so that gamblers' decision-making is not exploited through simple stimulus manipulations.
+
+### How did we do it?
+
+Undergraduates from Wilfrid Laurier University completed an experiment wherein they gambled using a virtual reality slot machine that had both a high and low visual angle. 
+
+Participants wore a physiological tracker, the [*EmotiBit*](https://github.com/EmotiBit/EmotiBit_Docs/tree/master), which approximated autonomic arousal through measurements of heart rate variability, galvanic skin conductance, skin conductance responses, heart rate, and more. 
+
+Gambling persistence (gambling past a specified end-point), and post-reinforcement pauses (time taken between each spin of the slot machine) were the dependent variables.
+
+### Why did we do it?
+
+This research draws on a classic theory from Dr. Antonio Damasio, a neuroscientist who postulated that arousal influences decision-making (Damasio, 1996). This theory originates from his work with frontal-brain-damaged patients who showed decision deficiencies during economic games, which supposedly stemmed from inadequate arousal levels (Damasio, 1996). 
+
+We hypothesized that participants who experienced greater autonomic arousal would make better gambling choices. The slot machine's visual angle was the purported mechanism by which autonomic arousal would change, such that higher visual angles lead to higher levels of arousal, and vice versa (e.g., Gall & Latoschik, 2023).
+
+Other work has explored the role of visual angle's influence on behaviour, but had not used an adequate gambling measure to assess how arousal may alter gambling (e.g., Oberdörfer et al., 2023). We aimed to fill these gaps.
+
+### Who contributed?
+
+This study was conducted by myself and my undergraduate advisor, [Dr. Nichole E. Scheerer](https://www.wlu.ca/academics/faculties/faculty-of-science/faculty-profiles/nichole-scheerer/index.html). Dr. Scheerer is an Assistant Professor in the Department of Psychology and director of the [Cognisant Lab](https://cognisantlab.ca/) at [Wilfrid Laurier University.](https://students.wlu.ca/programs/science/psychology/index.html)
+
+### References
+
+Damasio, A. (1996). The somatic marker hypothesis and the possible functions of the prefrontal cortex. *Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences*. [https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1996.0125](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1996.0125)
+
+Gall, D., & Latoschik, M. E. (2020). Visual angle modulates affective responses to audiovisual stimuli. *Computers in Human Behavior, 109*, 106346. [https://doi.org/10.1016/j.chb.2020.106346](https://doi.org/10.1016/j.chb.2020.106346)
+
+Oberdörfer, S., Birnstiel, S., Steinhaeusser, S. C., & Latoschik, M. E. (2023). An Approach to Investigate an Influence of Visual Angle Size on Emotional Activation During a Decision-Making Task. In J. Y. C. Chen & G. Fragomeni (Eds.), Virtual, Augmented and Mixed Reality (Vol. 14027, pp. 649–664). *Springer Nature Switzerland*. [https://doi.org/10.1007/978-3-031-35634-6_47](https://doi.org/10.1007/978-3-031-35634-6_47)
