@@ -1,0 +1,35 @@
+---
+title: An internal critique of Reason (1979)
+author: Carter M. Smith
+date: 2026-01-14
+date-format: iso
+categories:
+    - project
+    - talk
+page-layout: article
+image: reason1979.webp
+---
+
+### Introduction
+
+This semester (Winter 2026), I am taking a graduate class called PSYCH 789: Mind-wandering and inattention. This class is taught by Dr. Daniel Smilek in the Department of Psychology at the University of Waterloo. A few days ago I gave a talk to kick off the semester.
+
+### My argument
+
+I presented a formal argument against a seminal paper in the inattention literature from J.T. Reason. Reason conducts a descriptive study on what he calls *actions-not-as-planned (ANAPs)*. Consider a time where you went to go get milk from the fridge, but found yourself nearly putting orange juice in your coffee: this is an ANAP. This specific class of ANAPs, *test failures* is what my talk focuses on.
+
+These experiences are so pervasive, but can they be empirically captured? Reason argues that his descriptive data can help us make predictions for *when* and *what kind* of test failure we will make. He reasons (pardon the pun) that to predict the extent of the failure, we simply need to know the weights of competing motor programs once an error has been made. The stronger program (i.e., the coffee or the OJ program) will "win out" thus helping us classify the error's nature.
+
+My talk focuses on this move from Reason. How is it that we know which motor program is truly stronger? First, Reason himself does not know which motor program is stronger. As well, he provides no systematic framework to assess this. At points, Reason states that the *recency* or *recency* of each motor program will increase their strength. Yet, any mechanism he provides is fundamentally *post-hoc* since he made no *a priori* hypothesis. If Reason cannot provide an approach to empirically testing motor program strength, his predictions risk unfalsifiability.
+
+### What can this tell us about how we conduct our science in the modern age? 
+
+To me, it emphasizes the need for preregistration, reproducibility, and open-science practices. Ensuring that we make (and maintain!) hypotheses will not only improve the practice of science, but will make our arguments and theories clearer.
+
+### Conclusion
+
+Overall, this talk was fun. It differed from the presentations I usually give, and I enjoyed reaching into my philosophy of science bag to make this argument.
+
+### The slides
+
+<iframe src="smith-carter-reason-1979.html" width="100%" height="600px"></iframe>

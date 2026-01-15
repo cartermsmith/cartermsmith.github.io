@@ -1,10 +1,12 @@
 ---
-title: Test Project 2
+title: Test
 author: Carter M. Smith
-date: 2026-01-11
+date: 2026-01-14
+date-format: iso
 categories:
     - project
+    - r
+    - data
 page-layout: article
 ---
-
-Test 2
+Test
