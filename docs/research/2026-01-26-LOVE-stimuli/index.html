@@ -6,9 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="">
+<meta name="author" content="Carter M. Smith">
+<meta name="dcterms.date" content="2026-01-26">
 
-<title>Projects</title>
+<title>Minds in motion - Inferring mental states from observed kinematics</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -24,26 +25,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-0444fe2f0ed0bd01b45bf543c7ebf396.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-0444fe2f0ed0bd01b45bf543c7ebf396.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,70 +70,12 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-title','listing-categories','listing-date','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="../styles.css">
-<meta property="og:title" content="Projects">
-<meta property="og:description" content="Carter M. Smith’s Personal Website">
-<meta property="og:image" content="../projects/2026-01-14-reason-critique/reason1979.webp">
+<link rel="stylesheet" href="../../styles.css">
+<meta property="og:title" content="Minds in motion - Inferring mental states from observed kinematics">
+<meta property="og:description" content="Poster presentation at LOVE 2026 in Niagara Falls, ON, Canada">
+<meta property="og:image" content="falls.jpg">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -150,23 +91,23 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../research/"> 
+    <a class="nav-link" href="../../research/"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../projects/"> 
+    <a class="nav-link" href="../../projects/"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../blog/"> 
+    <a class="nav-link" href="../../blog/"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../cv/cv_jan2026.pdf" target="_blank"> 
+    <a class="nav-link" href="../../cv/cv_jan2026.pdf" target="_blank"> 
 <span class="menu-text">CV</span></a>
   </li>  
 </ul>
@@ -181,7 +122,7 @@ window.Quarto = {
             </a>
           </li>
           <li>
-            <a class="dropdown-item quarto-navbar-tools-item" href="../.github/ISSUE_TEMPLATE/bug_report.md">
+            <a class="dropdown-item quarto-navbar-tools-item" href="../../.github/ISSUE_TEMPLATE/bug_report.md">
             Report a Bug
             </a>
           </li>
@@ -192,25 +133,50 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#on-this-page" id="toc-on-this-page" class="nav-link active" data-scroll-target="#on-this-page">On this page:</a></li>
+  <li><a href="#check-out-the-stimuli-below" id="toc-check-out-the-stimuli-below" class="nav-link" data-scroll-target="#check-out-the-stimuli-below"><em>Check out the stimuli below!</em></a></li>
+  <li><a href="#check-out-the-poster-below" id="toc-check-out-the-poster-below" class="nav-link" data-scroll-target="#check-out-the-poster-below"><em>Check out the poster below!</em></a></li>
+  <li><a href="#check-out-my-other-research-projects" id="toc-check-out-my-other-research-projects" class="nav-link" data-scroll-target="#check-out-my-other-research-projects"><em>Check out my other research projects!</em></a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Projects</h1>
-</div>
+<h1 class="title">Minds in motion - Inferring mental states from observed kinematics</h1>
+<p class="subtitle lead">Poster presentation at LOVE 2026 in Niagara Falls, ON, Canada</p>
+  <div class="quarto-categories">
+    <div class="quarto-category">poster</div>
+  </div>
+  </div>
 
 
 
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Carter M. Smith </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">2026-01-26</p>
+    </div>
+  </div>
   
     
   </div>
@@ -220,67 +186,31 @@ window.Quarto = {
 </header>
 
 
-<p>Below are some varied projects.</p>
-<p>You can find slides to some talks I’ve given, analysis projects I have completed, and other miscellaneous things.</p>
+<section id="on-this-page" class="level3">
+<h3 class="anchored" data-anchor-id="on-this-page">On this page:</h3>
+<p>This page serves as a repository for the stimuli used in Carter M. Smith’s poster presentation at the Lake Ontario Visionary Establishment, February 2026, in Niagara Falls, ON, Canada.</p>
+</section>
+<section id="check-out-the-stimuli-below" class="level3">
+<h3 class="anchored" data-anchor-id="check-out-the-stimuli-below"><em>Check out the stimuli below!</em></h3>
+<p><a href="../../research/2026-01-26-LOVE-stimuli/stimuli/4_F_Exo_L_240ds.mp4">Figure 1A (360°/s)</a></p>
+<p><a href="../../research/2026-01-26-LOVE-stimuli/stimuli/1_M_Endo_R_360ds.mp4">Figure 1B (240 °/s)</a></p>
+<p><a href="../../research/2026-01-26-LOVE-stimuli/stimuli/1_M_Endo_L_50ds.mp4">A 50°/s turn</a></p>
+<p><a href="../../research/2026-01-26-LOVE-stimuli/stimuli/4_F_Exo_L_120ds.mp4">A 120°/s turn</a></p>
+<p><a href="../../research/2026-01-26-LOVE-stimuli/stimuli/1_M_Exo_R_180ds.mp4">A 180°/s turn</a></p>
+</section>
+<section id="check-out-the-poster-below" class="level3">
+<h3 class="anchored" data-anchor-id="check-out-the-poster-below"><em>Check out the poster below!</em></h3>
+<p><a href="../../research/2026-01-26-LOVE-stimuli/poster_draft_1.pdf">Carter M. Smith’s LOVE 2026 Poster</a></p>
+</section>
+<section id="check-out-my-other-research-projects" class="level3">
+<h3 class="anchored" data-anchor-id="check-out-my-other-research-projects"><em>Check out my other research projects!</em></h3>
+<p>Learn more about my research <a href="../../research/">here</a>!</p>
+<p>Feel free to <a href="mailto:carter.smith@uwaterloo.ca">contact me</a> with any questions.</p>
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="cHJvamVjdCUyQ3IlMkNkYXRh" data-listing-date-sort="1768366800000" data-listing-file-modified-sort="1768449031629" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<a href="../projects/2026-01-11-test-2/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 200px;">&nbsp;</div>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Test
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('cHJvamVjdA=='); return false;">project</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cg=='); return false;">r</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZGF0YQ=='); return false;">data</div>
-
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Jan 14, 2026
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="cHJvamVjdCUyQ3RhbGs=" data-listing-date-sort="1768366800000" data-listing-file-modified-sort="1768444076182" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="367">
-<a href="../projects/2026-01-14-reason-critique/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../projects/2026-01-14-reason-critique/reason1979.webp" class="thumbnail-image card-img" style="height: 200px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-An internal critique of Reason (1979)
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('cHJvamVjdA=='); return false;">project</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('dGFsaw=='); return false;">talk</div>
-
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Jan 14, 2026
-</div>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
