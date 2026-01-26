@@ -16,9 +16,9 @@ This page serves as a repository for the stimuli used in Carter M. Smith's poste
 
 ### *Check out the stimuli below!*
 
-[Figure 1A (360°/s)](/research/2026-01-26-LOVE-stimuli/stimuli/4_F_Exo_L_240ds.mp4)
+[Figure 1A (240°/s)](/research/2026-01-26-LOVE-stimuli/stimuli/4_F_Exo_L_240ds.mp4)
 
-[Figure 1B (240 °/s)](/research/2026-01-26-LOVE-stimuli/stimuli/1_M_Endo_R_360ds.mp4)
+[Figure 1B (360 °/s)](/research/2026-01-26-LOVE-stimuli/stimuli/1_M_Endo_R_360ds.mp4)
 
 [A 50°/s turn](/research/2026-01-26-LOVE-stimuli/stimuli/1_M_Endo_L_50ds.mp4)
 
@@ -30,8 +30,10 @@ This page serves as a repository for the stimuli used in Carter M. Smith's poste
 
 [Carter M. Smith's LOVE 2026 Poster](/research/2026-01-26-LOVE-stimuli/poster_draft_1.pdf)
 
-### *Check out my other research projects!*
+### *Check out my other research projects and/or connect with me!*
 
 Learn more about my research [here](/research/)!
+
+Connect with me on LinkedIn [here](https://www.linkedin.com/in/carter-m-smith/)!
 
 Feel free to [contact me](mailto:carter.smith@uwaterloo.ca) with any questions.
