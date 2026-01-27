@@ -14,7 +14,7 @@ image: falls.jpg
 
 This page serves as a repository for the stimuli used in Carter M. Smith's poster presentation at the Lake Ontario Visionary Establishment, February 2026, in Niagara Falls, ON, Canada.
 
-### *Check out the stimuli below!*
+### *Check out the stimuli below:*
 
 [Figure 1A (240°/s)](/research/2026-01-26-LOVE-stimuli/stimuli/4_F_Exo_L_240ds.mp4)
 
@@ -26,13 +26,15 @@ This page serves as a repository for the stimuli used in Carter M. Smith's poste
 
 [A 180°/s turn](/research/2026-01-26-LOVE-stimuli/stimuli/1_M_Exo_R_180ds.mp4)
 
-### *Check out the poster below!*
+### *Check out the poster below:*
 
 [Carter M. Smith's LOVE 2026 Poster](/research/2026-01-26-LOVE-stimuli/poster_draft_1.pdf)
 
-### *Check out my other research projects and/or connect with me!*
+### *Check out my other research projects:*
 
 Learn more about my research [here](/research/)!
+
+### ...and/or connect with me on LinkedIn!
 
 Connect with me on LinkedIn [here](https://www.linkedin.com/in/carter-m-smith/)!
 
