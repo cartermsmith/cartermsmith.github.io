@@ -1,8 +1,8 @@
 ---
-title: Minds in motion - Inferring mental states from observed kinematics
+title: "Minds in motion: Inferring mental states from observed kinematics"
 subtitle: Poster presentation at LOVE 2026 in Niagara Falls, ON, Canada
 author: Carter M. Smith
-date: 2026-01-26
+date: 2026-02-03
 date-format: iso
 categories:
     - poster
@@ -12,13 +12,9 @@ image: falls.jpg
 
 ### On this page:
 
-This page serves as a repository for the stimuli used in Carter M. Smith's poster presentation at the Lake Ontario Visionary Establishment, February 2026, in Niagara Falls, ON, Canada.
+This page serves as a repository for Carter M. Smith's poster presentation at the Lake Ontario Visionary Establishment conference, February 2026, in Niagara Falls, ON, Canada.
 
 ### *Check out the stimuli below:*
-
-[Figure 1A (240°/s)](/research/2026-01-26-LOVE-stimuli/stimuli/4_F_Exo_L_240ds.mp4)
-
-[Figure 1B (360 °/s)](/research/2026-01-26-LOVE-stimuli/stimuli/1_M_Endo_R_360ds.mp4)
 
 [A 50°/s turn](/research/2026-01-26-LOVE-stimuli/stimuli/1_M_Endo_L_50ds.mp4)
 
@@ -26,9 +22,13 @@ This page serves as a repository for the stimuli used in Carter M. Smith's poste
 
 [A 180°/s turn](/research/2026-01-26-LOVE-stimuli/stimuli/1_M_Exo_R_180ds.mp4)
 
+[A 240°/s turn](/research/2026-01-26-LOVE-stimuli/stimuli/4_F_Exo_L_240ds.mp4)
+
+[A 360°/s turn](/research/2026-01-26-LOVE-stimuli/stimuli/1_M_Endo_R_360ds.mp4)
+
 ### *Check out the poster below:*
 
-[Carter M. Smith's LOVE 2026 Poster](/research/2026-01-26-LOVE-stimuli/poster_draft_1.pdf)
+[Carter M. Smith's LOVE 2026 Poster](/research/2026-01-26-LOVE-stimuli/carter-smith-LOVE2026-poster.pdf)
 
 ### *Check out my other research projects:*
 
