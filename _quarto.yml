@@ -8,6 +8,7 @@ execute:
 website:
   title: ""
   description: "Carter M. Smith's Personal Website"
+  favicon: "m-glass.png"
   open-graph: true
   page-footer: 
     center: 
