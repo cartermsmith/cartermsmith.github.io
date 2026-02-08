@@ -13,4 +13,4 @@ format:
   page-layout: full
 ---
 
-Check out my blog posts below.
+Coming soon...

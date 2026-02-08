@@ -82,7 +82,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-image','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+      searchColumns: [],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -307,33 +307,9 @@ window.Quarto = {
 <p><a href="./research/"><span class="btn btn-primary btn-md"><strong>Check out my research</strong></span></a></p>
 <section id="latest-blog-posts" class="level2">
 <h2 data-anchor-id="latest-blog-posts">Latest Blog Posts</h2>
-<div id="listing-blog-preview" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="ZGF0YSUyQ3Jlc2VhcmNoJTJDcg==" data-listing-date-sort="1768107600000" data-listing-file-modified-sort="1768158556981" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10">
-<a href="./blog/2026-01-11-test-2/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Test Post 2
-</h5>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="ZGF0YSUyQ3Jlc2VhcmNo" data-listing-date-sort="1768107600000" data-listing-file-modified-sort="1768160479087" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="5">
-<a href="./blog/2026-01-11-test/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Test Post
-</h5>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
+<!-- :::{ #blog-preview }
+::: -->
+<p>Coming soon…</p>
 </section>
 <section id="latest-research" class="level2">
 <h2 data-anchor-id="latest-research">Latest Research</h2>
@@ -386,18 +362,7 @@ The effect of visual angle on slot machine gambling in virtual reality
 <h2 data-anchor-id="latest-projects">Latest Projects</h2>
 <div id="listing-projects-preview" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="cHJvamVjdCUyQ3IlMkNkYXRh" data-listing-date-sort="1768366800000" data-listing-file-modified-sort="1768449031629" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<a href="./projects/2026-01-11-test-2/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Test
-</h5>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="cHJvamVjdCUyQ3RhbGs=" data-listing-date-sort="1768366800000" data-listing-file-modified-sort="1768444076182" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="367">
+<div class="g-col-1" data-index="0" data-categories="cHJvamVjdCUyQ3RhbGs=" data-listing-date-sort="1768366800000" data-listing-file-modified-sort="1768444076182" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="367">
 <a href="./projects/2026-01-14-reason-critique/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -424,7 +389,12 @@ An internal critique of Reason (1979)
 </div>
 
 
-</main> <!-- /main -->
+<div class="quarto-listing quarto-listing-container-grid" id="listing-blog-preview">
+<div class="list grid quarto-listing-cols-3">
+
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const isCodeAnnotation = (el) => {

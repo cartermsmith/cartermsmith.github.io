@@ -83,8 +83,10 @@ Please feel free to contact me at: [carter.smith@uwaterloo.ca](mailto:carter.smi
 
 ## Latest Blog Posts
 
-:::{ #blog-preview }
-:::
+<!-- :::{ #blog-preview }
+::: -->
+
+Coming soon...
 
 ## Latest Research
 
