@@ -1,0 +1,32 @@
+---
+title: "Minds in motion: Inferring mental states from observed kinematics"
+author: Carter M. Smith
+date: 2026-02-03
+date-format: iso
+image: Carter_Smith_LOVE2026.png
+categories:
+    - poster
+    - social perception
+    - kinematics
+page-layout: article
+resources:
+  - carter-smith-LOVE2026-poster.pdf
+
+
+website:
+  navbar: false
+---
+
+This poster includes some initial work from my first graduate school research project on how humans infer the mental states of others from the physical cues in their movement. Presented at the Lake Ontario Visionary Establishment.
+
+::: {.callout-note collapse="true"}
+## Read the abstract!
+When observing others, we often infer what they are thinking or feeling from their static expressions, but also from their movements. Here, we ask how observers infer others’ mental states from their dynamic behaviours—namely, their head turn speed. Participants watched videos of actors turning at various speeds and judged (1) whether movements were biologically plausible; (2) whether movements were generated endogenously (e.g., turning to pick up a cup) or exogenously (e.g., turning toward a loud noise). Examining intuitions about the forces driving others’ movements contributes to our understanding of human perception, and the building blocks of social perception.
+:::
+
+<iframe
+  src="carter-smith-LOVE2026-poster.pdf"
+  width="100%"
+  height="800px"
+  style="border: none;">
+</iframe>

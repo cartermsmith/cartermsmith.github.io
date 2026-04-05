@@ -1,0 +1,51 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+    - research/**
+    - projects/**
+    - poster-gallery/**
+    - cv/**
+
+execute: 
+  freeze: true
+
+website:
+  title: ""
+  description: "Carter M. Smith's Personal Website"
+  favicon: "m-glass.png"
+  open-graph: true
+  page-footer: 
+    center: 
+      © 2026 Carter M. Smith | Made with [Quarto](https://quarto.org)
+  navbar:
+    background: primary
+    search: false
+    left:
+      - text: "About"
+        href: /index.html
+      - text: "Research"
+        href: /research/
+      - text: "Projects"
+        href: /projects/      
+      - text: "Poster Gallery"
+        href: /poster-gallery/
+      - text: "CV"
+        href: /cv/carter-smith-april-2026-cv.pdf
+        target: _blank
+    tools:
+      - icon: "github"
+        menu:
+        - text: Source Code
+          href: https://github.com/cartermsmith/website.git
+    collapse: true
+
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: true
+
+
+

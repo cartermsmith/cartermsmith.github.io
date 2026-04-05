@@ -1,0 +1,33 @@
+---
+title: "The effect of visual angle on slot machine gambling in virtual reality"
+author: Carter M. Smith
+date: 2025-05-09
+date-format: iso
+image: carter-sobdr-2025.jpeg
+categories:
+    - poster
+    - gambling
+    - VR
+    - decision making
+page-layout: article
+resources:
+  - carter-smith-sobdr-2025.pdf
+
+website:
+  navbar: false
+---
+
+This poster contains work exploring how altering the size of a virtual reality slot machine may alter user behaviour. Presented at the Southern Ontario Behavioural Decision Research Conference.
+
+::: {.callout-note collapse="true"}
+## Read the abstract!
+Gambling has proliferated into virtual reality (VR). Increasing gambling and VR popularity prompts the blending of the two. Affective arousal can influence decision-making, an intrinsic aspect of gambling. The somatic marker hypothesis and other theories of cognitive valuation posit that affective arousal is beneficial for decision-making. Changing the size of a stimulus, or the visual angle (VA), can alter affective arousal. Researchers investigating how VA influences gambling have employed flawed methods like the Iowa Gambling Task (IGT) that rely heavily on cognitive reliance and do not apply to an affective arousal framework. In the current study, a VR slot machine muted cognitive reliance. Forty-six participants gambled with a VR slot machine in both twenty-degree and sixty-degree VA conditions. We examined post-reinforcement pauses and gambling persistence. Participants did not differ across the experimental conditions on our dependent measures. Further work investigating other VR properties will inform virtual casino regulation.
+:::
+
+<iframe
+  src="/poster-gallery/carter-smith-sobdr-2025/carter-smith-sobdr-2025.pdf"
+  width="100%" 
+  height="800px"
+  style="border: none;">
+</iframe>
+

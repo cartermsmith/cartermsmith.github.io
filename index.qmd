@@ -1,0 +1,96 @@
+---
+title: "About"
+format:
+    html:
+        toc: true
+        html-math-method: katex
+        css: styles.css
+about:
+    template: solana
+    image: assets/images/profile.webp
+    image-shape: rectangle
+    links:
+        - icon: "zoom-in"
+          text: ResearchGate
+          href: https://www.researchgate.net/profile/Carter-Smith-11?ev=hdr_xprf
+        - icon: linkedin
+          text: LinkedIn
+          href: https://www.linkedin.com/in/carter-m-smith/
+        - icon: "google"
+          text: Google Scholar
+          href: https://scholar.google.ca/citations?user=rw5o3IIAAAAJ&hl=en
+        - icon: "github"
+          text: Github
+          href: https://github.com/cartermsmith
+    id: hero-heading
+listing:
+- id: research-preview
+  contents:
+    - research/*/*.qmd
+  sort: false
+  type: grid
+  grid-columns: 3
+  max-items: 3
+  image-height: 150px
+  fields: [image,title]
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  feed: false
+- id: projects-preview
+  contents:
+    - projects/*/*.qmd
+  sort: false
+  type: grid
+  grid-columns: 3
+  max-items: 3
+  image-height: 150px
+  fields: [image,title]
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  feed: false
+- id: gallery-preview
+  contents:
+    - poster-gallery/*/*.qmd
+  sort: false
+  type: grid
+  grid-columns: 3
+  max-items: 3
+  image-height: 150px
+  fields: [image,title]
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  feed: false
+page-layout: full
+---
+:::{ #hero-heading }
+
+***Hello, I'm Carter.***
+
+I am an MA candidate in Cognitive Psychology at the [University of Waterloo](https://uwaterloo.ca/psychology/), where I study in Dr. Clara Colombatto's [Vision and Cognition Laboratory.](https://colombattolab.com/)
+
+My current research examines the low-level cues that humans observe in social interactions (e.g., velocity of others' movements) which may allow for higher-level inferences about others' mental states (e.g., intentions). Further, I explore how these cues may influence an observers' cognition (e.g., their attention).
+
+In the past, I have [studied](research/smith-et-al-2026-DST/index.qmd) the auditory conditions *misophonia* and *hyperacusis* and their association with depression and anxiety. I have also [worked](research/smith-scheerer-2025-thesis/index.qmd) with virtual reality to explore how modifying stimulus properties (e.g., slot machine size) alters gambling behaviours.
+
+I am passionate about philosophy, cycling, music, and the Toronto Blue Jays.
+
+Please feel free to contact me at: [carter.smith@uwaterloo.ca](mailto:carter.smith@uwaterloo.ca).
+
+:::
+
+## Latest Research
+
+::: { #research-preview }
+:::
+
+## Poster Gallery
+::: { #gallery-preview }
+:::
+
+## Latest Projects
+
+::: { #projects-preview }
+:::

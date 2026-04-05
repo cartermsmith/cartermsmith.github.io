@@ -1,0 +1,19 @@
+---
+title: "Poster Gallery"
+listing:
+  contents: 
+  - "*.qmd"
+  type: grid
+  grid-columns: 3
+  image-height: 150px
+  fields: [image, title, date]
+  date-format: iso
+  sort: "date desc"
+  categories: false
+  feed: false
+  page-size: 6
+---
+
+Below are posters that I have created and presented during my undergraduate and graduate career.
+
+Click on a card to view a poster and read the abstract!

@@ -1,0 +1,32 @@
+---
+title: "Decreased sound tolerance and mental health in Canadian undergraduates"
+author: Carter M. Smith
+date: 2025-05-02
+date-format: iso
+image: carter-sona-2025.jpeg
+categories:
+    - poster
+    - DST
+    - depression
+    - anxiety
+page-layout: article
+resources:
+  - carter-smith-sona-2025.pdf
+
+website:
+  navbar: false
+---
+
+This poster features work that examines the relation between decreased sound tolerance (DST) and depression and anxiety in Canadian undergraduates. Presented at the Southern Ontario Neuroscience Association’s annual meeting.
+
+::: {.callout-note collapse="true"}
+## Read the abstract!
+Decreased sound tolerance (DST) is an encompassing term for conditions marked by a reduced tolerance to everyday sounds. Misophonia, a sensitivity to specific trigger sounds which cue aversive responses and physiological arousal, is one DST subtype. Sounds ranging from chewing to ticking clocks can be extremely distressing to those with misophonia. Those with hyperacusis, another DST subtype, are irritated by general sounds that are not bothersome to others. Research suggests that those with DST face occupational, social, and academic challenges. Most concerning, however, is that DST sufferers face heightened mental health challenges. Despite a recent misophonia consensus definition between experts, the relationship between DST and mental health has not been adequately assessed with psychometrically validated measures. There is also a complete dearth of DST-mental health research in Canadian universities. Here, 2,095 undergraduate students completed the Duke-Vanderbilt Misophonia Questionnaire, Duke Misophonia Questionnaire, Inventory of Hyperacusis Symptoms, and Beck Depression and Anxiety Inventories. We explored the relations between anxiety and depression and DST and the effect of varying levels of DST on mental health. Moderate, positive, significant correlations between DST symptoms and depression and anxiety and robust effect sizes were found. These findings emphasize the impact of DST on everyday functioning and highlight the need for future research on strategies for managing and treating DST in post-secondary institutions.
+:::
+
+<iframe
+  src="/poster-gallery/carter-smith-sona-2025/carter-smith-sona-2025.pdf"
+  width="100%" 
+  height="800px"
+  style="border: none;">
+</iframe>

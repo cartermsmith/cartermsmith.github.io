@@ -1,0 +1,33 @@
+---
+title: "The relationship between depression and anxiety and symptoms of misophonia in the general population"
+author: Carter M. Smith
+date: 2024-05-03
+date-format: iso
+image: carter-sona-2024.png
+categories:
+    - poster
+    - misophonia
+    - depression
+    - anxiety
+page-layout: article
+resources:
+  - carter-smith-sona-2024.pdf
+
+website:
+  navbar: false
+---
+
+This poster contains initial work from an undergraduate research project on the relationship between the hearing disorder misophonia, and mental health disorders. Presented at the Southern Ontario Neuroscience Association’s annual meeting.
+
+::: {.callout-note collapse="true"}
+## Read the abstract!
+
+Decreased sound tolerance (DST) is a condition marked by a reduced tolerance to everyday sounds. Of late, there has been increasing research on DST, lessening some of the ambiguity around this condition. With this, a subtype of DST, misophonia, has emerged. Misophonia is a neuropsychiatric condition where aversive responses and physiological arousal are produced following certain trigger sounds. Sounds ranging from chewing to ticking clocks can be extremely distressing to those with misophonia. There is a growing body of research suggesting that those who experience clinical misophonia face mental health challenges. The distressing nature of misophonia and lack of strategies for coping and/or treating misophonia may be contributing factors to this trend. Despite these advances, the relationship between misophonia and mental health has not been adequately assessed in the general population. In the current study, 1,403 undergraduate students completed the Duke-Vanderbilt Misophonia Questionnaire, Duke Misophonia Questionnaire, and Beck Depression and Anxiety Inventories to explore the relations between anxiety and depression and misophonia. In line with previous work, strong, positive, significant correlations between misophonia symptoms and depression and anxiety were found. These findings emphasize the impact of misophonia on everyday functioning and highlight the need for future research on strategies for managing and treating misophonia.
+:::
+
+<iframe
+  src="/poster-gallery/carter-smith-sona-2024/carter-smith-sona-2024.pdf"
+  width="100%" 
+  height="800px"
+  style="border: none;">
+</iframe>

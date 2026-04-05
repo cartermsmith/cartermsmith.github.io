@@ -1,0 +1,17 @@
+---
+title: Research
+author: ""
+listing:
+    contents:
+    - "*.qmd"
+    type: grid
+    image-height: 100px
+    date-format: iso
+    fields: [title, categories, date, image]
+    sort: "date desc"
+format:
+ html:
+  page-layout: full
+---
+
+Take a look at my research projects below, or find them on [ResearchGate](https://www.researchgate.net/profile/Carter-Smith-11?ev=hdr_xprf).
