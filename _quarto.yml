@@ -32,7 +32,7 @@ website:
       - text: "Poster Gallery"
         href: /poster-gallery/
       - text: "CV"
-        href: /cv/carter-smith-april-2026-cv.pdf
+        href: /cv/carter-smith-june-2026-cv.pdf
         target: _blank
     tools:
       - icon: "github"
