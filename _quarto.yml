@@ -3,10 +3,8 @@ project:
   output-dir: docs
   render:
     - index.qmd
-    - research/**
     - projects/**
-    - poster-gallery/**
-    - cv/**
+    - resume/**
 
 execute: 
   freeze: true
@@ -14,7 +12,7 @@ execute:
 website:
   title: ""
   description: "Carter M. Smith's Personal Website"
-  favicon: "m-glass.png"
+  favicon: "/assets/images/hex-sticker.png"
   open-graph: true
   page-footer: 
     center: 
@@ -25,27 +23,20 @@ website:
     left:
       - text: "About"
         href: /index.html
-      - text: "Research"
-        href: /research/
       - text: "Projects"
-        href: /projects/      
-      - text: "Poster Gallery"
-        href: /poster-gallery/
-      - text: "CV"
-        href: /cv/carter-smith-june-2026-cv.pdf
+        href: /projects/
+      - text: "Resume"
+        href: /resume/carter-smith-august-2026-resume.pdf
         target: _blank
     tools:
       - icon: "github"
         menu:
-        - text: Source Code
+        - text: Source
           href: https://github.com/cartermsmith/website.git
     collapse: true
+    sidebar:
+      logo: false
 
 format:
   html:
-    theme: yeti
-    css: styles.css
-    toc: true
-
-
-
+    theme: brand.yml

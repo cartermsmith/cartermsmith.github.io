@@ -2,95 +2,45 @@
 title: "About"
 format:
     html:
-        toc: true
         html-math-method: katex
         css: styles.css
 about:
     template: solana
-    image: assets/images/profile.webp
-    image-shape: rectangle
+    image: assets/images/carter.png
     links:
-        - icon: "zoom-in"
-          text: ResearchGate
-          href: https://www.researchgate.net/profile/Carter-Smith-11?ev=hdr_xprf
+        - icon: "github"
+          text: GitHub
+          href: https://github.com/cartermsmith
         - icon: linkedin
           text: LinkedIn
           href: https://www.linkedin.com/in/carter-m-smith/
+        - icon: "zoom-in"
+          text: ResearchGate
+          href: https://www.researchgate.net/profile/Carter-Smith-11?ev=hdr_xprf
         - icon: "google"
-          text: Google Scholar
+          text: Scholar
           href: https://scholar.google.ca/citations?user=rw5o3IIAAAAJ&hl=en
-        - icon: "github"
-          text: Github
-          href: https://github.com/cartermsmith
-    id: hero-heading
-listing:
-- id: research-preview
-  contents:
-    - research/*/*.qmd
-  sort: false
-  type: grid
-  grid-columns: 3
-  max-items: 3
-  image-height: 150px
-  fields: [image,title]
-  categories: false
-  sort-ui: false
-  filter-ui: false
-  feed: false
-- id: projects-preview
-  contents:
-    - projects/*/*.qmd
-  sort: false
-  type: grid
-  grid-columns: 3
-  max-items: 3
-  image-height: 150px
-  fields: [image,title]
-  categories: false
-  sort-ui: false
-  filter-ui: false
-  feed: false
-- id: gallery-preview
-  contents:
-    - poster-gallery/*/*.qmd
-  sort: false
-  type: grid
-  grid-columns: 3
-  max-items: 3
-  image-height: 150px
-  fields: [image,title]
-  categories: false
-  sort-ui: false
-  filter-ui: false
-  feed: false
 page-layout: full
 ---
-:::{ #hero-heading }
 
-***Hello, I'm Carter.***
+***Hi, I'm Carter.***
 
-I am an MA candidate in Cognitive Psychology at the [University of Waterloo](https://uwaterloo.ca/psychology/), where I study in Dr. Clara Colombatto's [Vision and Cognition Laboratory.](https://colombattolab.com/)
+I research the physical and environmental signals that shape how humans decide, perceive, and feel.
 
-My current research examines the low-level cues that humans observe in social interactions (e.g., velocity of others' movements) which may allow for higher-level inferences about others' mental states (e.g., intentions). Further, I explore how these cues may influence an observers' cognition (e.g., their attention).
+Currently:
 
-In the past, I have [studied](research/smith-et-al-2026-DST/index.qmd) the auditory conditions *misophonia* and *hyperacusis* and their association with depression and anxiety. I have also [worked](research/smith-scheerer-2025-thesis/index.qmd) with virtual reality to explore how modifying stimulus properties (e.g., slot machine size) alters gambling behaviours.
+- I'm researching how the physical cues in other people’s movements shape our judgments of their intentions, and how their intentions guide our attention.
 
-I am passionate about philosophy, cycling, music, and the Toronto Blue Jays.
+Previously:
 
-Please feel free to contact me at: [carter.smith@uwaterloo.ca](mailto:carter.smith@uwaterloo.ca).
+- I explored how changing the size of virtual reality slot machines altered gambling behaviour, [showing how environmental design shapes decision-making](https://cartermsmith.github.io/projects/smith-scheerer-2025-thesis/).
 
-:::
+- I studied how auditory sensitivities like misophonia and hyperacusis [relate to poor mental health outcomes](https://cartermsmith.github.io/projects/smith-et-al-2026-DST/) in post-secondary students.
 
-## Latest Research
+Right now, I'm completing my MA in Cognitive Psychology at the University of Waterloo. 
 
-::: { #research-preview }
-:::
+I'm excited to transfer the skills that I've learned during my academic training to help research-focused organizations translate data they have about humans into insights about human decision-making, perception, or judgment.
 
-## Poster Gallery
-::: { #gallery-preview }
-:::
+I'm happy to connect on [LinkedIn](https://www.linkedin.com/in/carter-m-smith), and you are welcome to write to me [here](mailto:cartermdsmith@gmail.com).
 
-## Latest Projects
-
-::: { #projects-preview }
-:::
+Check out my [resume](/resume/carter-smith-august-2026-resume.pdf), or full [academic CV](/assets/cv/carter-smith-august-2026-cv.pdf).

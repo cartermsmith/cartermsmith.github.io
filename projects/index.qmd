@@ -5,14 +5,13 @@ listing:
     contents:
     - "*.qmd"
     type: grid
+    image-height: 100px
+    date-format: iso
     fields: [title, categories, date, image]
     sort: "date desc"
-    image-height: 200px
 format:
  html:
   page-layout: full
 ---
 
-Below are some varied projects. 
-
-You can find slides to some talks I've given, analysis projects I have completed, and other miscellaneous things.
+Take a look at my research projects below, or find them on [ResearchGate](https://www.researchgate.net/profile/Carter-Smith-11?ev=hdr_xprf).

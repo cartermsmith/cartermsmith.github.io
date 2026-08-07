@@ -1,0 +1,34 @@
+color:
+  palette:
+    magenta: "#CD1076"
+    steel-blue: "#6497B1"
+    purple: "#6A359C"
+    amber: "#FFB04F"
+    olive: "#679C35"
+  foreground: "#FFFFFF"
+  background: "#1D1A22"
+  primary: magenta
+  secondary: steel-blue
+  success: olive
+  warning: amber
+  info: purple
+  link: steel-blue
+
+typography:
+  fonts:
+    - family: Inter
+      source: google
+      weight: [400, 500, 600, 700]
+  base:
+    family: Inter
+    size: 1rem
+  headings:
+    family: Inter
+    weight: 600
+  link:
+    weight: 500
+    decoration: none
+
+logo:
+  small: /assets/images/hex-sticker.png
+  large: /assets/images/hex-sticker.png
