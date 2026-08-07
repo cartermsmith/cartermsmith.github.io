@@ -10,8 +10,6 @@ Created with:
 
 [Bootstrap](https://getbootstrap.com)
 
-[Bootswatch - yeti Theme](https://bootswatch.com/yeti/)
-
 With help from:
 
 A tutorial by [Roy Francis](https://nbisweden.github.io/raukr-2025/labs/quarto-site/index.html)
