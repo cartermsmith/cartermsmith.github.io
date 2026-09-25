@@ -14,4 +14,4 @@ format:
   page-layout: full
 ---
 
-Take a look at my research projects below, or find them on [ResearchGate](https://www.researchgate.net/profile/Carter-Smith-11?ev=hdr_xprf).
+Take a look at my projects below. You can also find my research projects on [ResearchGate](https://www.researchgate.net/profile/Carter-Smith-11?ev=hdr_xprf) and my side projects on [GitHub](https://github.com/cartermsmith).

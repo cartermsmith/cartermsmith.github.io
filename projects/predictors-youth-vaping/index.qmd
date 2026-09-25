@@ -1,0 +1,49 @@
+---
+title: Predictors of Canadian Youth Vaping
+author: Carter M. Smith
+date: 2026-09-18
+date-format: iso
+categories:
+    - data analysis
+    - data visualization
+    - Python
+    - SQL
+page-layout: article
+image: figures/header.png
+---
+
+## Background
+
+Various factors, like alcohol consumption or cannabis use, have been explored as predictors to youth vaping [(Shi et al., 2022)](https://www.canada.ca/en/public-health/services/reports-publications/health-promotion-chronic-disease-prevention-canada-research-policy-practice/vol-42-no-1-2022/machine-learning-approach-predict-e-cigarette-use-dependance-ontario-youth.html). Yet, might data reflecting the psychological well-being of youth provide insight into other reasons that young people use e-cigarettes?
+
+## Key finding
+
+Analysis uncovered that an impactful lever influencing youth e-cigarette use is youth's sense of community belonging. For every one-unit increase in belonging, the probability of recently vaping decreases by 10.3 percentage points.
+
+General life satisfaction also predicts reductions in the likelihood of youth vaping, but only by 3.1 percentage points for every one-point increase in life satisfaction.
+
+Therefore, programs and policy focused on community connection may be worth exploring as a mechansim to reduce youth vaping.
+
+To see how each analyzed variable shaped the likelihood of recent youth e-cigarette use, see *Figure 1*.
+
+![Figure 1. The influence of several self-reported indicators of psychological well-being on the likelihood of youth e-cigarette use in the past month.](figures/plot.jpg)
+
+## Methodology
+
+This project uses data from the [Canadian Community Health Survey: Public Use Microdata File](https://doi.org/10.25318/82m0013x-eng). The data are from the 2022 report, and are based on reports from over 130,000 people across Canada aged 12+. This project included data from 447 youth respondents.
+
+## Tools
+
+- SQL: The youth sample was queried from the full microdata file using SQL, via the `duckdb` library. 
+
+- Python: Subsequent cleaning, modelling, and visualization was done in Python (`pandas`, `numpy`, `matplotlib`, `sklearn`).
+
+## Limitations
+
+Importantly, these data are cross-sectional, and only suggest that these predictors co-occur with reductions in youth vaping, not that they cause decreases. Self-report measures also carry a risk of dishonest or biased responding, especially considering that vaping is illegal for this age group.
+
+A machine learning model was used as a robustness check, to examine whether the violation of a statistical assumption was driving null effects. The model gained minimal additional signal from the data, suggesting that the violation did not mask effects in the initial model, but rather that there were few signals in a noisy dataset.
+
+## Want to learn more?
+
+Check out [this project on GitHub](https://github.com/cartermsmith/predictors-youth-vaping) where you can view a complete technical brief, analysis code, and a guide to reproduce everything for yourself.
