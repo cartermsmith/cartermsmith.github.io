@@ -9,7 +9,7 @@ categories:
     - Python
     - SQL
 page-layout: article
-image: figures/header.png
+image: figures/plot.jpg
 ---
 
 ## Background
