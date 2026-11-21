@@ -7,8 +7,9 @@ date-format: iso
 categories:
     - data analysis
     - data visualization
-    - Python
-    - SQL
+    - machine learning
+    - python
+    - sql
 page-layout: article
 image: figures/plot.jpg
 ---
@@ -35,7 +36,7 @@ To see the relationship between each predictor and the likelihood of recent yout
 
 ![Figure 1. Associations between several self-reported indicators of psychological well-being and the likelihood of youth e-cigarette use in the past month.](figures/plot.jpg)
 
-Further, a random forest and logistic regression (with `sklearn`) classified current from past e-cigarette users. The models performed modestly above random guessing (AUCs ~.57-.60), suggesting that the measures of well-being held little predictive information for discrimination between these two classes.
+Further, a random forest machine learning algorithm and logistic regression (with `sklearn`) classified current from past e-cigarette users. The models performed modestly above random guessing (AUCs ~.57-.60), suggesting that the measures of well-being held little predictive information for discrimination between these two classes.
 
 ## Data Description
 
