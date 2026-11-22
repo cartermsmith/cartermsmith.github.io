@@ -17,7 +17,7 @@ image: figures/plot.jpg
 ::: {.callout-note}
 This page has been updated to reflect the changes made in the November 2026 revision to this project. 
 
-In short, earlier conclusions were backwards: *weaker* belonging was associated with decreases in the likelihood of e-cigarette use. Machine learning approaches have been updated, collinearity concerns corrected, and any causal language for this cross-sectional design removed.
+In short, earlier conclusions were backwards: *stronger* belonging was associated with decreases in the likelihood of e-cigarette use. The correct direction of this effect is now presented below. Additionally, machine learning approaches have been updated, collinearity concerns corrected, and any causal language for this cross-sectional design removed.
 
 Please see [PR #1](https://github.com/cartermsmith/predictors-youth-vaping/pull/1) on GitHub for details on what's been changed.
 :::
@@ -28,7 +28,7 @@ Various factors, like alcohol consumption or cannabis use, have been explored as
 
 ## Key finding
 
-Analysis uncovered that weaker sense of community belonging was associated with decreases in the likelihood of e-cigarette use in the past month. For every one-unit increase in belonging (getting *worse*), the probability of recently vaping lowers by 10.3 percentage points.
+Analysis uncovered that *weaker* sense of community belonging was associated with decreases in the likelihood of e-cigarette use in the past month. For every one-unit increase in belonging (getting *worse*), the probability of recently vaping lowers by 10.3 percentage points.
 
 General life satisfaction was marginally related to reductions in past-month use. Each one-point increase (getting *better*) in life satisfaction was associated with a 3.1 percentage point decrease.
 
